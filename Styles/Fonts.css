@@ -1,0 +1,22 @@
+/*---Font Face Config---*/
+/*---Regular---*/
+@font-face {
+    font-family: "Vazir-Regular";
+    src : url("../Asset/Fonts/Vazir.eot") format("eot"),
+          url("../Asset/Fonts/Vazir.woff") format("woff"),
+          url("../Asset/Fonts/Vazir.woff2") format("woff2");
+}
+/*---Medium---*/
+@font-face {
+    font-family: "Vazir-Medium";
+    src : url("../Asset/Fonts/Vazir-Medium.eot") format("eot"),
+    url("../Asset/Fonts/Vazir-Medium.woff") format("woff"),
+    url("../Asset/Fonts/Vazir.woff2") format("woff2");
+}
+/*---Bold---*/
+@font-face {
+    font-family: "Vazir-Bold";
+    src : url("../Asset/Fonts/Vazir-Bold.eot") format("eot"),
+    url("../Asset/Fonts/Vazir-Bold.woff") format("woff"),
+    url("../Asset/Fonts/Vazir-Bold.woff2") format("woff2");
+}
