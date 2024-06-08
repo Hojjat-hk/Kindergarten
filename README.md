@@ -7,7 +7,7 @@
  
 <hr>
 
-**🛠️ Attributes:**
+**🛠️ Attributes:** 
 <br>
 <ul>
   <li>A beautiful and eye-catching UI design, along with a pleasant responsive layout.</li>
